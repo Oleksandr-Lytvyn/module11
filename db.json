@@ -1,0 +1,44 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "name": "Flowers",
+      "singers": [
+        "Masha",
+        "Lena"
+      ],
+      "rating": 9
+    },
+    {
+      "id": 2,
+      "name": "KDS",
+      "singers": [
+        "Pasha",
+        "Sasha"
+      ],
+      "rating": 7
+    },
+    {
+      "id": 3,
+      "name": "Belaya Vorona",
+      "singers": [
+        "Dog"
+      ],
+      "rating": 8
+    },
+    {
+      "name": "Ne hodi odna domoi",
+      "singers": [
+        "Masha",
+        "Lena",
+        "Pasha",
+        "Sasha",
+        "Taras",
+        null,
+        "Dog"
+      ],
+      "rating": 12,
+      "id": 12
+    }
+  ]
+}
